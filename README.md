@@ -1,6 +1,6 @@
 ## Hi there👋
 
-My name is Abhijith, and I'm currently pursuing my B.Tech 3rd year EEE in IIT Guwahati
+# My name is Abhijith, and I'm currently pursuing my B.Tech 3rd year EEE in IIT Guwahati
 
 - 🔭 I’m currently working on Machine Learnining and Deep Learning Projects.
 - 🌱 I’m currently learning Machine Learning and AI.
