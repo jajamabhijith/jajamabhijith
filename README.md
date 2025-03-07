@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi 👋, I am Abhijith Jajam
+- 🔭 I’m currently working on Machine Learnining and Deep Learning Projects.
+- 🌱 I’m currently learning Machine Learning and AI.
+- 👯 I’m looking to collaborate on open source projects.
 <!--
 **jajamabhijith/jajamabhijith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
