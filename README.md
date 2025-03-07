@@ -1,7 +1,11 @@
-## Hi 👋, I am Abhijith Jajam
+## Hi there👋
+
+My name is Abhijith, and I'm currently pursuing my B.Tech 3rd year EEE in IIT Guwahati
+
 - 🔭 I’m currently working on Machine Learnining and Deep Learning Projects.
 - 🌱 I’m currently learning Machine Learning and AI.
 - 👯 I’m looking to collaborate on open source projects.
+- 📫 How to reach me : jajamabhijith2004@gmail.com
 <!--
 **jajamabhijith/jajamabhijith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
