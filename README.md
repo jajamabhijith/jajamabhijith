@@ -1,3 +1,4 @@
+![logo](https://github.com/jajamabhijith/jajamabhijith/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png)
 ## Hi there👋
 
 ### My name is Abhijith, studying my B.Tech 3rd year EEE in IIT Guwahati
